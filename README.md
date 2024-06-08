@@ -4,7 +4,9 @@
 
 <b><details><summary>Details</summary>
 
-# Im Coming Soon !!
+### Learned Languages 
+###### Python 
+###### Javascript 
 <!---
 MrNikzOp/MrNikzOp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
