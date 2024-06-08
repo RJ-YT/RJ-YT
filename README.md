@@ -1,4 +1,4 @@
-![logo](https://telegra.ph/file/538e362cbbd6ae8044b99.jpg)
+![logo](https://telegra.ph/file/dba42aa7eff08c3b3bbc9.jpg)
 
 ### 👋 Hey Friend's I'm R J
 
