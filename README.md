@@ -6,7 +6,7 @@
 
 ### Learned Languages 
 ###### [Python](https://www.python.org/) 
-###### Javascript 
+###### [Javascript](https://nodejs.org/en) 
 
 <b><details><summary>Old YouTube Channel 💔</summary>
 ![logo](https://telegra.ph/file/7b71675771c399761b599.jpg)
