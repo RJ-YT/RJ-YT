@@ -7,6 +7,9 @@
 ### Learned Languages 
 ###### Python 
 ###### Javascript 
+
+<b><details><summary>Old YouTube Channel 💔</summary>
+![logo](https://telegra.ph/file/7b71675771c399761b599.jpg)
 <!---
 MrNikzOp/MrNikzOp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
