@@ -5,7 +5,7 @@
 <b><details><summary>Details</summary>
 
 ### Learned Languages 
-###### Python 
+###### [Python](https://www.python.org/) 
 ###### Javascript 
 
 <b><details><summary>Old YouTube Channel 💔</summary>
