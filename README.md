@@ -1,6 +1,6 @@
 ![logo](https://telegra.ph/file/26f266c4dae9930625cb6.jpg)
 
-### Im Nikz
+### 👋 Hey Friend's I'm R J
 
 <b><details><summary>Details</summary>
 
@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-###### Copyright ©️ M 1 STUDIO
+###### Copyright ©️ Milanio™™ New Face
