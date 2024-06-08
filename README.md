@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-###### Copyright ©️ Milanio™™ New Face
+###### Owner Of ©️ [Milanio™™ New Face](https://discord.com/invite/milanio-coding-community-tm-825260113509351454)
